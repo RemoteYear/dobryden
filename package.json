@@ -21,6 +21,7 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0"
   },
+  "main": "index.js",
   "engines": {
     "node": "0.10.x"
   }
